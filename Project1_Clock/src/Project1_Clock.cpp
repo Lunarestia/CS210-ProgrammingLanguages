@@ -187,7 +187,7 @@ void showTime(const standardTime&, const militaryTime&) {
 
 int main() {
 
-	vector <int> time12Hour {11, 59, 59};
+	standardTime time12Hour {11, 59, 59};
 	militaryTime time24Hour(23, 59, 59);
 	showTime(time12Hour, time24Hour);
 
