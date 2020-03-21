@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Project1_Clock.cpp
-// Author      : Luna Saccoia
+// Author      : Luna
 // Version     :
 // Copyright   : CS210-SNHU
 // Description : Hello World in C++, Ansi-style
