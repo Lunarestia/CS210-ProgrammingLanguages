@@ -24,7 +24,7 @@ enum AMorPM {
 
 //class Clock with variables for hour, minute and second
 class Clock {
-
+ 
 public:
 	int hour;
 	int minute;
