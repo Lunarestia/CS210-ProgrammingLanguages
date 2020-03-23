@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Project2_BankingInvestment.cpp
-// Author      : Luna Saccoia
+// Author      : Luna
 // Version     :
 // Copyright   : 
 // Description : Hello World in C++, Ansi-style
