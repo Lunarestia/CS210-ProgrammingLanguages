@@ -1,4 +1,3 @@
-Project 2 - Banking Investment Application
 # Project 2 - Banking Investment Application
 
 This project allows input from the user to calculate how much interest will be generated over a period of time the user inputs. 
