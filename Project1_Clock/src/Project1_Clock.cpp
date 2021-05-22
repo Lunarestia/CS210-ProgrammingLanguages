@@ -47,7 +47,7 @@ void addOneHour() {
 	if (hour == 11) {
 		hour = 0;
 	} else {
-		hour += 1;
+		hour++;
 	}
 }
 
@@ -57,7 +57,7 @@ void addOneMinute() {
 		minute = 0;
 		addOneHour();
 	} else {
-		minute += 1;
+		minute++;
 	}
 }
 
@@ -67,7 +67,7 @@ void addOneSecond() {
 		second = 0;
 		addOneMinute();
 	} else {
-		second += 1;
+		second++;
 	}
 }
 
@@ -90,7 +90,7 @@ void addOneHour() {
 	if (hour == 23) {
 		hour = 0;
 	} else {
-		hour += 1;
+		hour++;
 	}
 }
 
@@ -100,7 +100,7 @@ void addOneMinute() {
 		minute = 0;
 		addOneMinute();
 	} else {
-		minute += 1;
+		minute++;
 	}
 }
 
@@ -110,7 +110,7 @@ void addOneSecond() {
 		second = 0;
 		addOneSecond();
 	} else {
-		second += 1;
+		second++;
 	}
 }
 
